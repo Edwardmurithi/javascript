@@ -72,6 +72,6 @@ Welcome to my **JavaScript Learning Repository**! Here, I document everything I'
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/javascript-learning.git
-   cd javascript-learning
+   git clone https://github.com/Edwardmurithi/javascript.git
+   cd javascript
 
