@@ -1,3 +1,5 @@
+#!/usr/bin/node
+
 function power(base, exponent) {
     if (exponent == 0) {
         return 1;

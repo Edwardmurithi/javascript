@@ -1,3 +1,5 @@
+#!/usr/bin/node
+
 function rectagle(l, w) {
     /**
      * this function can only see the local bindings in the envron

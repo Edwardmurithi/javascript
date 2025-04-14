@@ -1,3 +1,4 @@
+#!/usr/bin/node
 /**
  * create a recursion function that sum values
  * from 1-10
