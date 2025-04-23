@@ -19,4 +19,4 @@ function findSolution(target) {
     return find(1, "1");
 }
 
-console.log(findSolution(24)) // (((1 * 3) + 5) * 3)
+console.log(findSolution(24)) // (((1 * 3) + 5) * 3)9

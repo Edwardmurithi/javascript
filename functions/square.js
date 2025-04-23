@@ -9,5 +9,5 @@ const square = function(x) {
 }
 
 number = Number(prompt("Enter number: "));
-console.log(square(number)); 
+console.log(square(number));
 
