@@ -1,3 +1,5 @@
+#!/usr/bin/node
+
 function sum(arr) {
     let result = 0
     for (let val of arr) {
